@@ -30,3 +30,7 @@ Then
 ```
 mkdir build && cd build && cmake .. && make
 ```
+
+## Running
+
+See the lensdriver application README within the [Edge SDK](https://gitlab.com/boulderai/bai-edge-sdk/-/tree/master/lensdriver)
